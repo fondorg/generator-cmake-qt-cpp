@@ -12,6 +12,14 @@ npm install -g yo
 npm install -g generator-cmake-qt-cpp
 ```
 
+## Usage
+Create empty directory and navigate into it.  
+Run Yeoman generator:  
+```bash
+yo cmake-qt-cpp
+```
+Follow instruction to configure the application.
+
 ## Features
 Generates Qt application with the following features:  
 * CMake build system
