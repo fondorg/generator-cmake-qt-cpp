@@ -1,6 +1,6 @@
 {
   "name": "generator-cmake-qt-cpp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate CMake project leveraging Qt UI framework",
   "keywords": [
     "yeoman-generator",
