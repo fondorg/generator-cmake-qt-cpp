@@ -12,7 +12,7 @@ npm install -g yo
 npm install -g generator-cmake-qt-cpp
 ```
 
-##Features
+## Features
 Generates Qt application with the following features:  
 * CMake build system
 * Simple GUI class
