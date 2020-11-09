@@ -1,7 +1,3 @@
-/* Copyright (C) LETA Company, Inc - All Rights Reserved
-* Unauthorized copying of this file, via any medium is strictly prohibited
-* Proprietary and confidential
-*/
 
 #ifndef HL_NORM_MAIN_WINDOW_H
 #define HL_NORM_MAIN_WINDOW_H
