@@ -1,0 +1,16 @@
+{
+  "name": "generator-cmake-qt-cpp",
+  "version": "1.0.0",
+  "description": "Generate CMake project leveraging Qt UI framework",
+  "keywords": [
+    "yeoman-generator",
+    "qt",
+    "cmake",
+    "cpp"
+  ],
+  "author": "German Doronin",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
