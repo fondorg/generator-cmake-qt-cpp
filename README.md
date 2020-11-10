@@ -27,5 +27,6 @@ Generates Qt application with the following features:
 * Background tasks execution with status reporting
 * Saving fields in settings on change
 * Optional OpenCV library inclusion
+* Installation target with all dependencies
 * Minor useful functions (modal message, file and directory opening)
 
