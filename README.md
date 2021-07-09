@@ -1,7 +1,7 @@
 # CMake Qt Yeoman Generator
 
 Generate CMake project leveraging Qt UI framework.  
-This a simple scaffolding tool that helps to get started with CMake based Qt project.
+This is a simple scaffolding tool that helps to get started with CMake based Qt project.
 
 ## Installation
 
